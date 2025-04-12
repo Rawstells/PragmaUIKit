@@ -136,11 +136,3 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 **Rawstells** - [GitHub](https://github.com/Rawstells)
 
 ---
-
-<p align="center">
-  Desarrollado como parte de una prueba técnica para Pragma.
-</p>
-
-<p align="center">
-  <img src="screenshots/pragma_logo.png" width="150" alt="Pragma Logo">
-</p>
